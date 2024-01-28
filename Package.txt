@@ -1,0 +1,8 @@
+package: SDL_gfx
+platformname: macosx
+date: macosx(28.01.2024, 00.21.22)
+minimumversion: macosx(10.13)
+platformversion: macosx(14.2)
+sdkversion: macosx(1520)
+bundleversion: macosx(2.0.26)
+checksum: 5a78eee2b14b84320f9e0a1d1da7afcf9b7fb3d9e3fa1a34bc3e80c1898a9e2a
